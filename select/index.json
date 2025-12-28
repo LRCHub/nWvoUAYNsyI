@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "嫉妬ガール",
+  "base_artist": "Snow Man",
+  "createdAt": "2025-12-28T01:32:15.802499Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "嫉妬ガール",
+      "artist": "Snow Man",
+      "has_synced": false,
+      "path": "select/pl_01_嫉妬ガール_Snow_Man.txt"
+    }
+  ]
+}
